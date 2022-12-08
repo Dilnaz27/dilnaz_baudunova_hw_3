@@ -29,6 +29,8 @@ public class Main {
                     minId = j;
                 }
             }
+
+            // рроооо
             int temp = data[i];
             data[i] = min;
             data[minId] = temp;
