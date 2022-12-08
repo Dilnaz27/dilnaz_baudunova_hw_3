@@ -30,7 +30,7 @@ public class Main {
                 }
             }
 
-            // рроооо
+            //замена
             int temp = data[i];
             data[i] = min;
             data[minId] = temp;
